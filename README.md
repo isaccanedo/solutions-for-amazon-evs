@@ -20,3 +20,4 @@ Installing VCF manually involves dozens of configuration steps, carefully crafte
 - **Auditability** — Every configuration decision is captured in version-controlled code
 - **Error reduction** — Eliminate manual typos in DNS records, VLAN CIDRs, and bringup specs
 - **Security** — Passwords generated automatically and stored in AWS Secrets Manager
+- ----------------------------------------------------------------------------------
